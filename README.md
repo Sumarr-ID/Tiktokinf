@@ -16,3 +16,5 @@ cd Tiktokinf
 python infott.py
 
 semoga bermanfaat!!
+
+link demo script: https://vt.tiktok.com/ZSU29FnwS/
